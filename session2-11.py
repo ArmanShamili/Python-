@@ -1,0 +1,5 @@
+a=float(input("tool?  "))
+b=float(input("arz?   "))
+s=(a*b)
+x=float(s**0.5)
+print(x)
